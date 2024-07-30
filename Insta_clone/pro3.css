@@ -1,0 +1,1229 @@
+.left_sidebar {
+  box-shadow: 0px 0px 1px 1px black;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 75px;
+  height: 570px;
+}
+.logo {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 40px;
+  width: 43px;
+  position: relative;
+  top: 25px;
+  left: 15px;
+}
+.insta_logo {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 9px;
+  top: 8px;
+}
+.home {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 43px;
+  width: 44px;
+  position: relative;
+  top: 65px;
+  left: 15px;
+  border-radius: 5px;
+}
+.home_logo {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 9px;
+  top: 8px;
+}
+.search {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 45px;
+  width: 44px;
+  position: relative;
+  top: 73px;
+  left: 15px;
+  border-radius: 5px;
+}
+.search_logo {
+  height: 35px;
+  width: 35px;
+  position: relative;
+  left: 5px;
+  top: 7px;
+}
+.explore {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 45px;
+  width: 44px;
+  position: relative;
+  top: 80px;
+  left: 15px;
+  border-radius: 5px;
+}
+.explore_logo {
+  height: 35px;
+  width: 35px;
+  position: relative;
+  left: 3.6px;
+  top: 4px;
+}
+.shorts {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 44px;
+  width: 44px;
+  position: relative;
+  top: 88px;
+  left: 15px;
+  border-radius: 5px;
+}
+.shorts_logo {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 9px;
+  top: 10px;
+}
+.message {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 45px;
+  width: 44px;
+  position: relative;
+  top: 95px;
+  left: 15px;
+  border-radius: 5px;
+}
+.message_logo {
+  height: 37px;
+  width: 37px;
+  position: relative;
+  left: 3.5px;
+  top: 3.5px;
+}
+.heart {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 45px;
+  width: 44px;
+  position: relative;
+  top: 102px;
+  left: 15px;
+  border-radius: 5px;
+}
+.heart_logo {
+  height: 30px;
+  width: 28px;
+  position: relative;
+  left: 7.5px;
+  top: 9px;
+}
+.create {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 45px;
+  width: 44px;
+  position: relative;
+  top: 110px;
+  left: 15px;
+  border-radius: 5px;
+}
+.create_logo {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  left: 1.5px;
+  top: 3px;
+}
+.me {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 45px;
+  width: 44px;
+  position: relative;
+  top: 117px;
+  left: 15px;
+  border-radius: 5px;
+}
+.my_logo {
+  height: 27px;
+  width: 27px;
+  border-radius: 15px;
+  position: relative;
+  left: 8px;
+  top: 9px;
+}
+.menu {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 45px;
+  width: 44px;
+  position: relative;
+  top: 124px;
+  left: 15px;
+  border-radius: 5px;
+}
+.menu_logo {
+  height: 31px;
+  width: 38px;
+  position: relative;
+  left: 2.5px;
+  top: 7px;
+}
+.right_sidebar {
+  box-shadow: 0px 0px 1px 1px blue;
+  height: 565px;
+  width: 400px;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+}
+.me2 {
+  height: 45px;
+  width: 45px;
+  border-radius: 25px;
+  position: relative;
+  top: 35px;
+  left: 11px;
+}
+.profile {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: relative;
+  left: 70px;
+  bottom: 25px;
+}
+.profile2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  color: rgb(115, 115, 115);
+  position: relative;
+  left: 75px;
+  bottom: 35px;
+}
+.switch {
+  color: rgb(4, 124, 237);
+  position: relative;
+  left: 270px;
+  bottom: 75px;
+}
+.suggestion_box {
+  box-shadow: 0px 0px 1px 1px black;
+  height: 335px;
+  width: 399px;
+  position: relative;
+  bottom: 60px;
+}
+.suggestion {
+  color: rgb(128, 127, 127);
+  font-size: 15px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+.see {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  position: relative;
+  left: 272px;
+  bottom: 23px;
+}
+.img1 {
+  height: 45px;
+  width: 45px;
+  border: 1px solid grey;
+  border-radius: 25px;
+  position: relative;
+  left: 15px;
+  bottom: 25px;
+}
+.para1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  position: relative;
+  left: 70px;
+  bottom: 85px;
+}
+.sub1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: grey;
+  font-size: 13px;
+  position: relative;
+  left: 70px;
+  bottom: 102px;
+}
+.follow1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: rgb(4, 124, 237);
+  font-size: 13px;
+  font-weight: 490;
+  position: relative;
+  left: 275px;
+  bottom: 140px;
+}
+.img2 {
+  height: 45px;
+  width: 45px;
+  border: 1px solid grey;
+  border-radius: 25px;
+  position: relative;
+  left: 15px;
+  bottom: 125px;
+}
+.para2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  position: relative;
+  left: 70px;
+  bottom: 185px;
+}
+.sub2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: grey;
+  font-size: 13px;
+  position: relative;
+  left: 70px;
+  bottom: 200px;
+}
+.follow2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: rgb(4, 124, 237);
+  font-size: 13px;
+  font-weight: 490;
+  position: relative;
+  left: 275px;
+  bottom: 240px;
+}
+.img3 {
+  height: 45px;
+  width: 45px;
+  border: 1px solid grey;
+  border-radius: 25px;
+  position: relative;
+  left: 15px;
+  bottom: 225px;
+}
+.para3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  position: relative;
+  left: 70px;
+  bottom: 285px;
+}
+.sub3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: grey;
+  font-size: 13px;
+  position: relative;
+  left: 70px;
+  bottom: 300px;
+}
+.follow3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: rgb(4, 124, 237);
+  font-size: 13px;
+  font-weight: 490;
+  position: relative;
+  left: 275px;
+  bottom: 340px;
+}
+.img4 {
+  height: 45px;
+  width: 45px;
+  border: 1px solid grey;
+  border-radius: 25px;
+  position: relative;
+  left: 15px;
+  bottom: 325px;
+}
+.para4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  position: relative;
+  left: 70px;
+  bottom: 385px;
+}
+.sub4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: grey;
+  font-size: 13px;
+  position: relative;
+  left: 70px;
+  bottom: 400px;
+}
+.follow4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: rgb(4, 124, 237);
+  font-size: 13px;
+  font-weight: 490;
+  position: relative;
+  left: 275px;
+  bottom: 445px;
+}
+.img5 {
+  height: 45px;
+  width: 45px;
+  border: 1px solid grey;
+  border-radius: 25px;
+  position: relative;
+  left: 15px;
+  bottom: 425px;
+}
+.para5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  position: relative;
+  left: 70px;
+  bottom: 485px;
+}
+.sub5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: grey;
+  font-size: 13px;
+  position: relative;
+  left: 70px;
+  bottom: 500px;
+}
+.follow5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: rgb(4, 124, 237);
+  font-size: 13px;
+  font-weight: 490;
+  position: relative;
+  left: 275px;
+  bottom: 545px;
+}
+.policy {
+  box-shadow: 0px 0px 1px 1px cyan;
+  height: 130px;
+  width: 399px;
+  position: relative;
+  bottom: 55px;
+}
+.first {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: rgb(153, 152, 152);
+  font-size: 12px;
+  position: relative;
+  top: 25px;
+  left: 20px;
+  letter-spacing: 1px;
+}
+.copyrights {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: rgb(153, 152, 152);
+  font-size: 12px;
+  position: relative;
+  top: 30px;
+  left: 20px;
+}
+.main {
+  box-shadow: 0px 0px 1px 1px red;
+  height: 3600px;
+  width: 740px;
+  position: relative;
+  left: 70px;
+  bottom: 15px;
+}
+.holder1 {
+  box-shadow: 0px 0px 1px 1px red;
+  height: 550px;
+  width: 510px;
+  margin-bottom: 30px;
+  position: relative;
+  left: 130px;
+  top: 20px;
+}
+.head1 {
+  height: 35px;
+  width: 35px;
+  border-radius: 20px;
+  position: relative;
+  top: 12px;
+  left: 18px;
+}
+.heading1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 39px;
+  left: 65px;
+}
+.timing1 {
+  position: relative;
+  bottom: 70px;
+  left: 162px;
+}
+.desc1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  position: relative;
+  bottom: 90px;
+  left: 70px;
+}
+.vid1 {
+  height: 260px;
+  width: 460px;
+  position: relative;
+  left: 20px;
+  bottom: 90px;
+}
+.heart1 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  right: 445px;
+  bottom: 50px;
+}
+.mess1 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 60px;
+  bottom: 84px;
+}
+.tele1 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 70px;
+  bottom: 83px;
+}
+.label1 {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 390px;
+  bottom: 83px;
+}
+.likes1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 90px;
+  left: 25px;
+}
+.heading11 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 95px;
+  left: 25px;
+}
+.about1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 127px;
+  left: 120px;
+}
+.see1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: relative;
+  bottom: 132px;
+  left: 25px;
+}
+.view1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: rgb(147, 145, 145);
+  font-weight: 400;
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.comm1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.add1 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(147, 145, 145);  
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.line1 {
+  color: grey;
+  position: relative;
+  bottom: 135px;
+}
+.holder2 {
+  box-shadow: 0px 0px 1px 1px red;
+  height: 550px;
+  width: 510px;
+  position: relative;
+  left: 130px;
+  top: 35px;
+}
+.head2 {
+  height: 35px;
+  width: 35px;
+  border-radius: 20px;
+  position: relative;
+  top: 12px;
+  left: 18px;
+}
+.heading2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  left: 65px;
+  position: relative;
+  bottom: 40px;
+}
+.timing2 {
+  position: relative;
+  bottom: 73px;
+  left: 166px;
+}
+.desc2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  position: relative;
+  bottom: 90px;
+  left: 70px;
+}
+.vid2 {
+  height: 260px;
+  width: 460px;
+  position: relative;
+  left: 20px;
+  bottom: 90px;
+}
+.heart2 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  right: 445px;
+  bottom: 50px;
+}
+.mess2 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 60px;
+  bottom: 84px;
+}
+.tele2 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 70px;
+  bottom: 83px;
+}
+.label2 {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 390px;
+  bottom: 83px;
+}
+.likes2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 90px;
+  left: 25px;
+}
+.heading22 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 95px;
+  left: 25px;
+}
+.about2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 127px;
+  left: 120px;
+}
+.see2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: relative;
+  bottom: 130px;
+  left: 25px;
+}
+.view2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: rgb(147, 145, 145);
+  font-weight: 400;
+  position: relative;
+  bottom: 133px;
+  left: 25px;
+}
+.comm2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.add2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(147, 145, 145);  
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.line2 {
+  color: grey;
+  position: relative;
+  bottom: 133px;
+}
+.holder3 {
+  box-shadow: 0px 0px 1px 1px red;
+  height: 550px;
+  width: 510px;
+  position: relative;
+  left: 130px;
+  top: 75px;
+}
+.head3 {
+  height: 35px;
+  width: 35px;
+  border-radius: 20px;
+  position: relative;
+  top: 12px;
+  left: 18px;
+}
+.heading3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  left: 65px;
+  position: relative;
+  bottom: 40px;
+}
+.timing3 {
+  position: relative;
+  bottom: 73px;
+  left: 166px;
+}
+.desc3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  position: relative;
+  bottom: 90px;
+  left: 70px;
+}
+.vid3 {
+  height: 260px;
+  width: 460px;
+  position: relative;
+  left: 20px;
+  bottom: 90px;
+}
+.heart3 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  right: 445px;
+  bottom: 50px;
+}
+.mess3 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 60px;
+  bottom: 84px;
+}
+.tele3 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 70px;
+  bottom: 83px;
+}
+.label3 {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 390px;
+  bottom: 83px;
+}
+.likes3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 90px;
+  left: 25px;
+}
+.heading33 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 95px;
+  left: 25px;
+}
+.about3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 127px;
+  left: 125px;
+}
+.see3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: relative;
+  bottom: 130px;
+  left: 25px;
+}
+.view3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: rgb(147, 145, 145);
+  font-weight: 400;
+  position: relative;
+  bottom: 134px;
+  left: 25px;
+}
+.comm3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.add3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(147, 145, 145);  
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.line3 {
+  color: grey;
+  position: relative;
+  bottom: 133px;
+}
+.holder4 {
+  box-shadow: 0px 0px 1px 1px red;
+  height: 570px;
+  width: 510px;
+  position: relative;
+  left: 130px;
+  top: 117px;
+}
+.head4 {
+  height: 35px;
+  width: 35px;
+  border-radius: 20px;
+  position: relative;
+  top: 12px;
+  left: 18px;
+}
+.heading4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  left: 65px;
+  position: relative;
+  bottom: 40px;
+}
+.timing4 {
+  position: relative;
+  bottom: 73px;
+  left: 166px;
+}
+.desc4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  position: relative;
+  bottom: 90px;
+  left: 70px;
+}
+.vid4 {
+  height: 260px;
+  width: 460px;
+  position: relative;
+  left: 20px;
+  bottom: 90px;
+}
+.heart4 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  right: 445px;
+  bottom: 50px;
+}
+.mess4 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 60px;
+  bottom: 84px;
+}
+.tele4 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 70px;
+  bottom: 83px;
+}
+.label4 {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 390px;
+  bottom: 83px;
+}
+.likes4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 90px;
+  left: 25px;
+}
+.heading44 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 95px;
+  left: 25px;
+}
+.about4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 127px;
+  left: 110px;
+}
+.see4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: relative;
+  bottom: 132px;
+  left: 25px;
+}
+.view4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: rgb(147, 145, 145);
+  font-weight: 400;
+  position: relative;
+  bottom: 133px;
+  left: 25px;
+}
+.comm4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.add4 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(147, 145, 145);  
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.line4 {
+  color: grey;position: relative;
+  bottom: 130px;
+}
+.holder5 {
+  box-shadow: 0px 0px 1px 1px red;
+  height: 550px;
+  width: 510px;
+  position: relative;
+  left: 130px;
+  top: 160px;
+}
+.head5 {
+  height: 35px;
+  width: 35px;
+  border-radius: 20px;
+  position: relative;
+  top: 12px;
+  left: 18px;
+}
+.heading5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  left: 65px;
+  position: relative;
+  bottom: 40px;
+}
+.timing5 {
+  position: relative;
+  bottom: 73px;
+  left: 166px;
+}
+.desc5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  position: relative;
+  bottom: 90px;
+  left: 70px;
+}
+.vid5 {
+  height: 260px;
+  width: 460px;
+  position: relative;
+  left: 20px;
+  bottom: 90px;
+}
+.heart5 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  right: 445px;
+  bottom: 50px;
+}
+.mess5 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 60px;
+  bottom: 84px;
+}
+.tele5 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 70px;
+  bottom: 83px;
+}
+.label5 {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 390px;
+  bottom: 83px;
+}
+.likes5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 90px;
+  left: 25px;
+}
+.heading55 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 95px;
+  left: 25px;
+}
+.about5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 127px;
+  left: 130px;
+}
+.see5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: relative;
+  bottom: 131px;
+  left: 25px;
+}
+.view5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: rgb(147, 145, 145);
+  font-weight: 400;
+  position: relative;
+  bottom: 133px;
+  left: 25px;
+}
+.comm5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.add5 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(147, 145, 145);  
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.line5 {
+  color: grey;position: relative;
+  bottom: 132px;
+}
+.holder6 {
+  box-shadow: 0px 0px 1px 1px red;
+  height: 550px;
+  width: 510px;
+  position: relative;
+  left: 130px;
+  top: 203px;
+}
+.head6 {
+  height: 35px;
+  width: 35px;
+  border-radius: 20px;
+  position: relative;
+  top: 12px;
+  left: 18px;
+}
+.heading6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  left: 65px;
+  position: relative;
+  bottom: 40px;
+}
+.timing6 {
+  position: relative;
+  bottom: 73px;
+  left: 166px;
+}
+.desc6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  position: relative;
+  bottom: 90px;
+  left: 70px;
+}
+.vid6 {
+  height: 260px;
+  width: 460px;
+  position: relative;
+  left: 20px;
+  bottom: 90px;
+}
+.heart6 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  right: 445px;
+  bottom: 50px;
+}
+.mess6 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 60px;
+  bottom: 84px;
+}
+.tele6 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  left: 70px;
+  bottom: 83px;
+}
+.label6 {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 390px;
+  bottom: 83px;
+}
+.likes6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 90px;
+  left: 25px;
+}
+.heading66 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  bottom: 95px;
+  left: 25px;
+}
+.about6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 127px;
+  left: 135px;
+}
+.see6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: relative;
+  bottom: 130px;
+  left: 25px;
+}
+.view6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: rgb(147, 145, 145);
+  font-weight: 400;
+  position: relative;
+  bottom: 133px;
+  left: 25px;
+}
+.comm6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.add6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(147, 145, 145);  
+  position: relative;
+  bottom: 137px;
+  left: 25px;
+}
+.line1 {
+  color: grey;position: relative;
+  bottom: 130px;
+}
